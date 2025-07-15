@@ -113,8 +113,8 @@ Helps identify:
 Topic 0: Tea-related Phrases
 • Common Phrases: green tea, earl grey, tea bag, loose tea
 
-![Topic 0 Wordcloud](visualizations/topic_0_wordcloud.png)
-![Topic 0 Bar Chart](visualizations/topic_0_bar_chart.png)
+![Topic 0 Wordcloud](Visualizations/topic_0_wordcloud.png)
+![Topic 0 Bar Chart](Visualizations/topic_0_bar_chart.png)
 
 Topic 1: Fruit Juices
 • Common Phrases: fruit juice, kiwi berry, orange tangerine
