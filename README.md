@@ -37,7 +37,7 @@ This project analyzes 10,000+ Amazon product reviews using advanced NLP techniqu
 1. **Install Dependencies**
 
 bash
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Dependencies listed in requirements.txt:
 pandas
@@ -52,17 +52,23 @@ spacy
 textblob
 pyLDAvis
 
+---
+
 2.	Download NLP Assets
 python -m nltk.downloader vader_lexicon stopwords
 python -m spacy download en_core_web_sm
 
-3.	Run the End-to-End Pipeline
+---
+
+4.	Run the End-to-End Pipeline
 python analyze.py
 
 This will generate:
 	•	Cleaned reviews with sentiment and topic labels
 	•	Bigram/trigram word clouds and bar charts per topic
 	•	Final prioritization matrix in visualizations/
+
+---
 
 📊 Sample Output
 
@@ -96,6 +102,8 @@ Helps identify:
 	•	Customer sentiment tracking
 	•	Voice of Customer (VoC) dashboards
 
+---
+
 📊 Output Visuals
 
 🔵 Prioritization Matrix:
@@ -108,6 +116,8 @@ Helps identify:
 	•	📉 Bottom-right: High frequency, low sentiment
 
 <img width="1200" height="700" alt="Figure_7" src="https://github.com/rijulchaturvedi/AI-Powered-Review-Intelligence-for-Product-Roadmapping/blob/main/Visualizations/Figure_7.png" />
+
+---
 
 🔠 Topic Bar Charts and Wordclouds:
 Topic 0: Tea-related Phrases
@@ -140,6 +150,7 @@ Topic 4: Cat Food
 ![Topic 4 Wordcloud](visualizations/topic_0_wordcloud.png)
 ![Topic 4 Bar Chart](visualizations/topic_0_bar_chart.png)
 
+---
 📬 Contact
 
 Built with ❤️ by RIJUL CHATURVEDI
