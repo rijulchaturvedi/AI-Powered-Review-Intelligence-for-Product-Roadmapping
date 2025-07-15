@@ -131,26 +131,26 @@ Helps identify:
 ### Topic 1: Fruit Juices
 • Common Phrases: fruit juice, kiwi berry, orange tangerine
 
-![Topic 1 Wordcloud](Visualizations/topic_0_wordcloud.png)
-![Topic 1 Bar Chart](Visualizations/topic_0_bar_chart.png)
+![Topic 1 Wordcloud](Visualizations/topic_1_wordcloud.png)
+![Topic 1 Bar Chart](Visualizations/topic_1_bar_chart.png)
 
 ### Topic 2: Baby Food
 • Common Phrases: baby food, month old, earth good
 
-![Topic 2 Wordcloud](Visualizations/topic_0_wordcloud.png)
-![Topic 2 Bar Chart](Visualizations/topic_0_bar_chart.png)
+![Topic 2 Wordcloud](Visualizations/topic_2_wordcloud.png)
+![Topic 2 Bar Chart](Visualizations/topic_2_bar_chart.png)
 
 ### Topic 3: Hot Chocolate
 • Common Phrases: hot chocolate, hot cocoa, dark chocolate
 
-![Topic 3 Wordcloud](Visualizations/topic_0_wordcloud.png)
-![Topic 3 Bar Chart](Visualizations/topic_0_bar_chart.png)
+![Topic 3 Wordcloud](Visualizations/topic_3_wordcloud.png)
+![Topic 3 Bar Chart](Visualizations/topic_3_bar_chart.png)
 
 ### Topic 4: Cat Food
 • Common Phrases: cat food, cat love, cat eat
 
-![Topic 4 Wordcloud](Visualizations/topic_0_wordcloud.png)
-![Topic 4 Bar Chart](Visualizations/topic_0_bar_chart.png)
+![Topic 4 Wordcloud](Visualizations/topic_4_wordcloud.png)
+![Topic 4 Bar Chart](Visualizations/topic_4_bar_chart.png)
 
 ---
 📬 Contact
