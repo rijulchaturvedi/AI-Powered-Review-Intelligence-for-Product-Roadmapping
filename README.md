@@ -36,7 +36,7 @@ This project analyzes 10,000+ Amazon product reviews using advanced NLP techniqu
 
 1. **Install Dependencies**
 
-```bash
+bash
 pip install -r requirements.txt
 
 Dependencies listed in requirements.txt:
