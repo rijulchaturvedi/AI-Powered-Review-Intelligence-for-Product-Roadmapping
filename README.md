@@ -36,7 +36,7 @@ This project analyzes 10,000+ Amazon product reviews using advanced NLP techniqu
 
 1. **Install Dependencies**
 
-bash
+bash <br>
 ```pip install -r requirements.txt```
 
 Dependencies listed in requirements.txt:
@@ -54,14 +54,16 @@ pyLDAvis
 
 ---
 
-2.	Download NLP Assets
-python -m nltk.downloader vader_lexicon stopwords
+2.	Download NLP Assets<br>
+```
+python -m nltk.downloader vader_lexicon stopwords`
 python -m spacy download en_core_web_sm
+```
 
 ---
 
 4.	Run the End-to-End Pipeline
-python analyze.py
+```python analyze.py```
 
 This will generate:
 	•	Cleaned reviews with sentiment and topic labels
@@ -119,36 +121,36 @@ Helps identify:
 
 ---
 
-🔠 Topic Bar Charts and Wordclouds:
-Topic 0: Tea-related Phrases
+## 🔠 Topic Bar Charts and Wordclouds:
+### Topic 0: Tea-related Phrases
 • Common Phrases: green tea, earl grey, tea bag, loose tea
 
 ![Topic 0 Wordcloud](Visualizations/topic_0_wordcloud.png)
 ![Topic 0 Bar Chart](Visualizations/topic_0_bar_chart.png)
 
-Topic 1: Fruit Juices
+### Topic 1: Fruit Juices
 • Common Phrases: fruit juice, kiwi berry, orange tangerine
 
-![Topic 1 Wordcloud](visualizations/topic_0_wordcloud.png)
-![Topic 1 Bar Chart](visualizations/topic_0_bar_chart.png)
+![Topic 1 Wordcloud](Visualizations/topic_0_wordcloud.png)
+![Topic 1 Bar Chart](Visualizations/topic_0_bar_chart.png)
 
-Topic 2: Baby Food
+### Topic 2: Baby Food
 • Common Phrases: baby food, month old, earth good
 
-![Topic 2 Wordcloud](visualizations/topic_0_wordcloud.png)
-![Topic 2 Bar Chart](visualizations/topic_0_bar_chart.png)
+![Topic 2 Wordcloud](Visualizations/topic_0_wordcloud.png)
+![Topic 2 Bar Chart](Visualizations/topic_0_bar_chart.png)
 
-Topic 3: Hot Chocolate
+### Topic 3: Hot Chocolate
 • Common Phrases: hot chocolate, hot cocoa, dark chocolate
 
-![Topic 3 Wordcloud](visualizations/topic_0_wordcloud.png)
-![Topic 3 Bar Chart](visualizations/topic_0_bar_chart.png)
+![Topic 3 Wordcloud](Visualizations/topic_0_wordcloud.png)
+![Topic 3 Bar Chart](Visualizations/topic_0_bar_chart.png)
 
-Topic 4: Cat Food
+### Topic 4: Cat Food
 • Common Phrases: cat food, cat love, cat eat
 
-![Topic 4 Wordcloud](visualizations/topic_0_wordcloud.png)
-![Topic 4 Bar Chart](visualizations/topic_0_bar_chart.png)
+![Topic 4 Wordcloud](Visualizations/topic_0_wordcloud.png)
+![Topic 4 Bar Chart](Visualizations/topic_0_bar_chart.png)
 
 ---
 📬 Contact
