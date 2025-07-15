@@ -107,7 +107,7 @@ Helps identify:
 	•	😐 Top-left: Low frequency, high sentiment
 	•	📉 Bottom-right: High frequency, low sentiment
 
-<img width="1200" height="700" alt="Figure_7" src="https://github.com/user-attachments/assets/8e96d320-1f3b-4949-aa52-ed66ec47f565" />
+<img width="1200" height="700" alt="Figure_7" src="https://github.com/rijulchaturvedi/AI-Powered-Review-Intelligence-for-Product-Roadmapping/blob/main/Visualizations/Figure_7.png" />
 
 🔠 Topic Bar Charts and Wordclouds:
 Topic 0: Tea-related Phrases
